@@ -1,0 +1,97 @@
+{
+  "info": {
+      "id": "855090",
+      "name": "abCoffee",
+      "cloudinaryImageId": "a38ec7d5b2917a63db7f412ecf9ebea0",
+      "locality": "Bandra Kurla Complex",
+      "areaName": "Scruz Bandra East",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+          "Cafe",
+          "Bakery",
+          "Beverages",
+          "Coffee",
+          "Tea",
+          "Snacks",
+          "Desserts"
+      ],
+      "avgRating": 4.5,
+      "parentId": "341177",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "50+",
+      "promoted": true,
+      "adTrackingId": "cid=15966915~p=3~adgrpid=15966915#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=855090~eid=445ee51e-a122-41bb-a4ad-2dc7b8a39c3c~srvts=1722926348382~collid=45995",
+      "sla": {
+          "deliveryTime": 22,
+          "lastMileTravel": 1.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "1.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+          "nextCloseTime": "2024-08-06 19:00:00",
+          "opened": true
+      },
+      "badges": {
+          "imageBadges": [
+              {
+                  "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+                  "description": "Delivery!"
+              }
+          ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+          "entityBadges": {
+              "textBased": {},
+              "imageBased": {
+                  "badgeObject": [
+                      {
+                          "attributes": {
+                              "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+                              "description": "Delivery!"
+                          }
+                      }
+                  ]
+              },
+              "textExtendedBadges": {}
+          }
+      },
+      "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75",
+          "discountCalloutInfo": {
+              "message": "Free Delivery",
+              "logoCtx": {
+                  "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+              }
+          }
+      },
+      "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+          }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+          "aggregatedRating": {
+              "rating": "--"
+          }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {},
+  "cta": {
+      "link": "swiggy://menu?restaurant_id=855090",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+  }
+}

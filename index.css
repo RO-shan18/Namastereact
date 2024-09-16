@@ -1,9 +1,3 @@
-*{
-    margin:0;
-    padding:0;
-}
-
-.firstheading{
-    color:white;
-    background-color: rgb(84, 81, 81);
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
