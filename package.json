@@ -1,0 +1,27 @@
+{
+  "name": "react-web-series",
+  "version": "1.0.0",
+  "description": "This is an Namaste React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test`": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RO-shan18/Namastereact.git"
+  },
+  "keywords": [
+    "namaste-react",
+    "roshan-mehra",
+    "akshay-saini"
+  ],
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RO-shan18/Namastereact/issues"
+  },
+  "homepage": "https://github.com/RO-shan18/Namastereact#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
